@@ -2,6 +2,7 @@
     "author": "Gourav Kandoria(gourav-kandoria)",
 	"name": "fcc-learn-npm-package-json",
     "description": "A project that does something awesome",
+    "keywords": ["freecodecamp", "nodejs-learning"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
