@@ -1,5 +1,5 @@
 {
-    "author": "Gaurav Kandori(gourav-kandoria)",
+    "author": "Gourav Kandoria(gourav-kandoria)",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
